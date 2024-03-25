@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, something abous me 👋
+
+I'm from Italy, currently in Palermo
+
+<ul>
+  <li>Studying computer engineering at University of Palermo</li>
+  <li>Studying at 42Roma</li>
+</ul>
 
 <!--
 **matteo-genovese/matteo-genovese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mgenoves?1337Badge=off&UM6P=off" alt="mgenoves's 42 stats" /></a>
