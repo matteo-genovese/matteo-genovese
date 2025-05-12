@@ -67,7 +67,7 @@ Here are a few of the C projects I’ve built so far at 42:
 
 ## 📈 42 Network Progress
 
-![42 Profile](https://badge42.vercel.app/api/v2/cl1a4chz4006709l1dj4nmuvx/stats?cursusId=21&coalitionId=284)  
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mgenoves?1337Badge=off&UM6P=off" alt="mgenoves's 42 stats" /></a>
 
 ---
 
