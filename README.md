@@ -80,15 +80,15 @@ Here are a few of the C projects I’ve built so far at 42:
 
 ---
 
-## 📫 Get in Touch
-
-- **Email:** matteo.genovese2003@gmail.com  
-- Feel free to connect or reach out for collaboration, feedback, or just to say hi!
-
----
-
 ## 🎯 Future Goals
 
 - 🚀 Launch and scale my startup  
 - 🎓 Complete my Bachelor's degree and the **42 common core**
 - 🏛 Start a Master's degree in **Engineering in Computer Science** at *La Sapienza*, Rome
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** matteo.genovese2003@gmail.com  
+- Feel free to connect or reach out for collaboration, feedback, or just to say hi!
