@@ -30,7 +30,7 @@ This role gives me hands-on experience working in a **fast-paced creative enviro
 
 ---
 
-### 🚀 Co-founder & CTO @ **[GruppoStudio.it](https://gruppostudio.it)** (in development)
+### 🚀 Co-founder & CTO @ **[GruppoStudio.it](https://gruppostudio.it)** (in development, [dev.gruppostudio.it](https://dev.gruppostudio.it))
 GruppoStudio.it is a **startup focused on online education**, helping Italian students succeed through:
 - 📚 Group and cheap lessons during the school year
 - 🎓 Intensive summer courses for university entrance exams
