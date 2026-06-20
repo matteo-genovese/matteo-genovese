@@ -23,7 +23,6 @@ I work as an **Operations / Mobile Specialist at Sparkle** — SS7, Diameter, GT
 
 - 🐷 **Avascot.com** — web platform for the John Pork ecosystem (React, Vite, Tailwind, GSAP)
 - 🏠 **Homelab** — Linux servers, Docker, self-hosting, monitoring, production-like infra
-- 📚 **Master's degree** — Engineering in Computer Science & Artificial Intelligence @ Sapienza, Rome
 
 ---
 
